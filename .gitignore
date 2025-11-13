@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Output folders
+adv_out/
+attack_results.csv
+
+# Data folders
+data/
+
+# Python virtual environment
+venv/
+
+# Model weights
+resnet18_chestxray.pth
+
+# Ignore all CSVs for outputs (optional, if used consistently)
+# *.csv
+
